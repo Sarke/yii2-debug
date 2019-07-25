@@ -4,7 +4,7 @@ Yii Framework 2 debug extension Change Log
 2.1.7 under development
 -----------------------
 
-- Enh #390: Use var dumper serialize on dump panel (Sarke)
+- Enh #401: Use var dumper serialize on dump panel (Sarke)
 
 
 2.1.6 July 23, 2019
