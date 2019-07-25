@@ -4,7 +4,7 @@ Yii Framework 2 debug extension Change Log
 2.1.7 under development
 -----------------------
 
-- Enh #390: Use opis/closure to serialize data (Sarke)
+- Enh #390: Use var dumper serialize on dump panel (Sarke)
 
 
 2.1.6 July 23, 2019
@@ -15,6 +15,7 @@ Yii Framework 2 debug extension Change Log
 - Enh #380: Enhanced browser compatibility (samdark)
 - Enh #390: Use opis/closure to serialize data (Sarke)
 - Enh #392: Add `tracePathMappings` property to module (Sarke)
+- Enh #379: Better error message when no debug data is found (Sarke)
 
 
 2.1.5 June 04, 2019
